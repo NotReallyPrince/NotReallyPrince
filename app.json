@@ -1,0 +1,25 @@
+{
+    "name": "Merissa-ChatBot",
+    "description": "Hello, I am Merissa An Intelligent ChatBot. If You Are Feeling Lonely, You can Always Come to me and Chat With Me!",
+    "logo": "https://telegra.ph/file/06b15a2e9bfebd63220e0.jpg",
+    "repository": "https://github.com/Prince-Botz/MerissaChatbot",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "taken from @botfather",
+            "required": true
+        },
+        "MERISSA_TOKEN": {
+            "description": "taken from @MerissaRobot Just type /token. without token chatbot not work.",
+            "required": true
+        }
+        "OWNER_USERNAME": {
+            "description": "Your telegram Username Without @",
+            "required": true
+        }
+    },
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }
+    ]
+}

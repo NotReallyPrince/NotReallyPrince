@@ -1,0 +1,4 @@
+requests
+tgcrypto
+Pyrogram==1.4.6
+googletrans==4.0.0rc1
