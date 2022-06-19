@@ -28,7 +28,7 @@ async def start(client, message):
                                         InlineKeyboardButton(
                                             "Dev", url=f"https://t.me/{OWNER_USERNAME}"),
                                         InlineKeyboardButton(
-                                            "Repo", url="https://github.com/Prince-Botz/MerissaChatbot")
+                                            "Repo", url="https://github.com/Prince-Botz/Merissa-Chatbot")
                                     ]]
                             ),               
            )
