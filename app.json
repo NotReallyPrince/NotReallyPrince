@@ -15,7 +15,7 @@
         "OWNER_USERNAME": {
             "description": "Your telegram Username Without @",
             "required": true
-        },
+        }
     },
     "addons": [
         {
