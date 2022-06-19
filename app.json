@@ -11,11 +11,11 @@
         "MERISSA_TOKEN": {
             "description": "taken from @MerissaRobot Just type /token. without token chatbot not work.",
             "required": true
-        }
+        },
         "OWNER_USERNAME": {
             "description": "Your telegram Username Without @",
             "required": true
-        }
+        },
     },
     "addons": [
         {

@@ -12,8 +12,8 @@
 ## Requirements
 
 - Python 3.7 or higher.
-- A [bot token](https://t.me/botfather).
-
+- [BOT_TOKEN](https://t.me/botfather).
+- [MERISSA_TOKEN](https://t.me/merissarobot)
 
 ## Self Hosting For Devs
 
