@@ -9,11 +9,19 @@
             "required": true
         },
         "MERISSA_TOKEN": {
-            "description": "taken from @MerissaRobot Just type /token. without token chatbot not work.",
+            "description": "taken from @MerissaRobot Just type /token. without token chatbot not works.",
             "required": true
         },
         "OWNER_USERNAME": {
             "description": "Your telegram Username Without @",
+            "required": true
+        },
+        "BOT_NAME": {
+            "description": "Your Telegram Bot Name",
+            "required": true
+        },
+        "OWNER_NAME": {
+            "description": "Your Name",
             "required": true
         }
     },
