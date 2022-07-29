@@ -14,11 +14,8 @@ BOT_NAME = Config.BOT_NAME
 OWNER_NAME = Config.OWNER_NAME
 
 chatbot_group = 2
-
 bot = Client("MerissaChatbot", bot_token=BOT_TOKEN, api_id=6,
              api_hash="eb06d4abfb49dc3eeb1aeb98ae0f581e")
-
-print("Merissa Chatbot Started!")
 
 tr = Translator()
 
@@ -71,4 +68,5 @@ async def chatbot_talk(_, message: Message):
         msg = tr.translate(textmsg, src="en", dest=lang)
         await message.reply_text(msg.text)
 
+print("Merissa Chatbot Started!")
 bot.run()
