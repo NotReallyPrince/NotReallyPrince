@@ -9,6 +9,8 @@ OWNER_USERNAME = Config.OWNER_USERNAME
 BOT_TOKEN = Config.BOT_TOKEN
 BOT_ID = int(BOT_TOKEN.split(":")[0])
 MERISSA_TOKEN = Config.MERISSA_TOKEN
+BOT_NAME = Config.BOT_NAME
+OWNER_NAME = Config.OWNER_NAME
 
 chatbot_group = 2
 
@@ -62,7 +64,7 @@ async def chatbot_talk(_, message: Message):
         ).replace(" ", "%20")
         text = trtoen.replace(" ", "%20") if len(message.text) < 2 else trtoen
         merissaurl = requests.get(
-            f"https://merissachatbot.tk/api?apikey={MERISSA_TOKEN}&message={text}"
+            f"https://merissachatbot.tk/api/apikey={MERISSA_TOKEN}/{BOT_NAME}/{OWNER_NAME}/message={text}"
         )
         textmsg = merissaurl.json()
         msg = tr.translate(textmsg, src="en", dest=lang)
