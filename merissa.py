@@ -1,6 +1,7 @@
 import os
 import requests
 from pyrogram import *
+
 from config import Config
 from pyrogram.types import *
 from googletrans import Translator
@@ -24,7 +25,7 @@ tr = Translator()
 @bot.on_message(filters.command("start") & ~filters.edited)
 async def start(client, message):
    if message.chat.type == 'private':
-       await message.reply("**Hey There, I'm MerissaRobot. An advanced chatbot with AI. \n\nAdd me to your group and chat with me!**",   
+       await message.reply(f"**Hey There, I'm** {BOTNAME}. **An advanced chatbot with AI. \n\nAdd me to your group and chat with me!**",   
                             reply_markup=InlineKeyboardMarkup(
                                 [[
                                         InlineKeyboardButton(
