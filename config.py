@@ -6,3 +6,6 @@ class Config(object):
       OWNER_USERNAME = os.environ.get("OWNER_USERNAME", "NoobxCoder")
       BOT_NAME = os.environ.get("BOT_NAME", "")
       OWNER_NAME = os.environ.get("OWNER_NAME", "")
+      LANGUAGE_CODE = os.environ.get("LANGUAGE", "lang")
+
+   
