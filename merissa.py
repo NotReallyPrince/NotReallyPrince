@@ -14,6 +14,7 @@ BOT_NAME = Config.BOT_NAME
 OWNER_NAME = Config.OWNER_NAME
 
 chatbot_group = 2
+
 bot = Client("MerissaChatbot", bot_token=BOT_TOKEN, api_id=6,
              api_hash="eb06d4abfb49dc3eeb1aeb98ae0f581e")
 
