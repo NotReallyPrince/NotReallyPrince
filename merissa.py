@@ -12,6 +12,7 @@ BOT_ID = int(BOT_TOKEN.split(":")[0])
 MERISSA_TOKEN = Config.MERISSA_TOKEN
 BOT_NAME = Config.BOT_NAME
 OWNER_NAME = Config.OWNER_NAME
+LANG = Config.LANGUAGE_CODE
 
 chatbot_group = 2
 
@@ -66,7 +67,7 @@ async def chatbot_talk(_, message: Message):
             f"https://merissachatbot.tk/api/apikey={MERISSA_TOKEN}/{BOT_NAME}/{OWNER_NAME}/message={text}"
         )
         textmsg = merissaurl.json()["reply"]
-        msg = tr.translate(textmsg, src="en", dest=lang)
+        msg = tr.translate(textmsg, src="en", dest=LANG)
         await message.reply_text(msg.text)
 
 print("Merissa Chatbot Started!")
