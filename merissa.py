@@ -22,7 +22,7 @@ tr = Translator()
 @bot.on_message(filters.command("start") & ~filters.edited)
 async def start(client, message):
    if message.chat.type == 'private':
-       await message.reply(f"**Hey There, I'm** {BOTNAME}. **An advanced chatbot with AI. \n\nAdd me to your group and chat with me!**",   
+       await message.reply(f"**Hey There, I'm** {BOT_NAME}. **An advanced chatbot with AI. \n\nAdd me to your group and chat with me!**",   
                             reply_markup=InlineKeyboardMarkup(
                                 [[
                                         InlineKeyboardButton(
