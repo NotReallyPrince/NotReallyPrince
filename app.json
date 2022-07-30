@@ -23,6 +23,10 @@
         "OWNER_NAME": {
             "description": "Your Name",
             "required": true
+        },
+        "LANGUAGE": {
+            "description": "Enter Language Code Here like en, hi or blank for default Multi Language",
+            "required": false
         }
     },
     "addons": [
