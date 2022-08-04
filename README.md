@@ -25,5 +25,5 @@
 
 ### CREDITS 
 
-• [Prince-Botz](https://github.com/Prince-botz)
+• [MetaVoid Team](https://github.com/MetaVoidTeam)
 
