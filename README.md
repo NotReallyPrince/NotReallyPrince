@@ -25,5 +25,5 @@
 
 ### CREDITS 
 
-• [MetaVoid Team](https://github.com/MetaVoidTeam)
+• [MetaVoid-Team](https://github.com/MetaVoidTeam)
 
