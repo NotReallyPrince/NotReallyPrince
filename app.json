@@ -28,5 +28,5 @@
             "description": "Enter Language Code Here like en, hi or blank for default Multi Language",
             "required": false
         }
-    },
+    }
 }
