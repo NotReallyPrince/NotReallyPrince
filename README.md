@@ -9,9 +9,8 @@ I'm a Software engineer, I like to Code, Design, Innovate and Experiment. I am a
 
 # 🎧 Spotify Now Playing:
 <a href="https://open.spotify.com/user/2d4j0cfh8vucgcs0avv4buqbp?si=62794f2480ea43ff">
-  <img
-    src="https://notreallyprince-playing.vercel.app/"
-    alt="Current Spotify Song"
+  <video
+    src="https://notreallyprince.pythonanywhere.com/"
   />
 </a>
 
