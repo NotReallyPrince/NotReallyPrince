@@ -10,9 +10,10 @@ I'm a Software engineer, I like to Code, Design, Innovate and Experiment. I am a
 # 🎧 Spotify Now Playing:
 <a href="https://open.spotify.com/user/2d4j0cfh8vucgcs0avv4buqbp?si=62794f2480ea43ff">
   <img
-    src="https://notreallyprince.pythonanywhere.com/"
+    src="https://notreallyprince-playing.vercel.app/api/"
   />
 </a>
+
 
 ## 🌐 Socials:
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prince.prajapti30)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajapati-prince-aa2499305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/notreallyprince) 
