@@ -9,7 +9,7 @@
   <a href="https://t.me/notreallyprince" target="blank"><img align="center" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
-<h3>Things I code with</h3>
+## Things I code with
 
 <p align="flex">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -27,13 +27,13 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-### 🎶 Currently listening:
+## 🎶 Currently listening:
 <a href="https://open.spotify.com/user/2d4j0cfh8vucgcs0avv4buqbp?si=62794f2480ea43ff">
   <img src="https://notreallyprince-playing.vercel.app/api?spin=true&scan=true&eq_color=rainbow&theme=dark" />
 </a>
 
 
-# 📈 GitHub Stats:
+## 📈 GitHub Stats:
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=notreallyprince&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=notreallyprince&theme=blueberry&hide_border=false" alt="GitHub Streak" />
