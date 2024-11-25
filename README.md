@@ -1,7 +1,37 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Prince Prajapati, Fullstack developer from <img src="https://cdn.pixabay.com/photo/2012/04/10/23/03/india-26828_640.png" width="13"/> Gujarat, India.
+
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class Developer:
+    def __init__(self):
+        self.name = "Prince Prajapati"
+        self.title = "Full-Stack Developer"
+        self.location = "Gujarat, India"
+        self.education = "Bachelor's Degree in Automobile Engineering"
+        self.language_programming = ["Python", "JavaScript"]
+        self.skills = ["React.js", "React Native", "Node.js", "Tailwind CSS", , "GitHub Actions"]
+        self.language_framework = ["Django", "FastAPI", "Flask","Next.js", "Expo"]
+        self.database = ["MongoDB", "Firebase", "PostgreSQL"]
+        self.projects = {
+            "KellyAI": "AI tools for image generation, image editing, and chat.",
+            "Picsynth": "Advanced AI-driven image synthesis platform.",
+            "Audire": "A free website where you can listen to your favorite music anytime, anywhere",
+            "Dogetune": "A music bot where you can listen to your favorite music anytime, anywhere"
+        }
+        self.interests = ["Web Development", "API Development", "AI Tools", "Open Source"]
+        
+    def say_hi(self):
+        print(f"Hi! 👋 I'm {self.name}, a {self.title} from {self.location}.")
+        print("I love building interactive apps and exploring new tech!")
+
+prince = Developer()
+prince.say_hi()
+```
 
 <p align="flex">
   <a href="https://instagram.com/prince.prajapti30" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
