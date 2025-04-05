@@ -57,11 +57,6 @@ prince.say_hi()
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## 🎶 Currently listening:
-<a href="https://open.spotify.com/user/2d4j0cfh8vucgcs0avv4buqbp?si=62794f2480ea43ff">
-  <img src="https://notreallyprince-playing.vercel.app/api?spin=true&scan=true&eq_color=rainbow&theme=dark" />
-</a>
-
 
 ## 📈 GitHub Stats:
 <div>
