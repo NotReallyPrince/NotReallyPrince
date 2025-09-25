@@ -57,6 +57,9 @@ prince.say_hi()
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
+## 🎶 Currently listening:
+
+[![Now Playing](https://812mfj36-3000.inc1.devtunnels.ms/embed/now-playing/svg?spin=true&theme=dark)](https://812mfj36-3000.inc1.devtunnels.ms/embed/now-playing/svg?spin=true&theme=dark)
 
 ## 📈 GitHub Stats:
 <div>
